@@ -13,6 +13,7 @@ Our main expertise areas include:
 - and much more
 
 Following are also the key points about working with us I'd want to highlight:
+
 0) You pay ONLY for the actual developers' time and get all the benefits of working with a company with a highly-structured process. 
 1) Live daily calls with PM, we keep Trello board up to date to visualize the progress. No charge for PM.
 2) QA engineers are regularly rotated, to ensure fresh opinions on use cases and more bugs discovered. No charge for QA.
