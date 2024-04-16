@@ -21,8 +21,6 @@ Following are also the key points about working with us I'd want to highlight:
 4) Constant code reviews are done by our Team Leads to ensure that the code under the hood is scalable, easy to read or maintain, and that it meets our internal quality standards. 
 5) All our management staff (like PMs) permanently take UX courses and lectures so we are up to date with all the trends and best practices with everything we do. Your success is our success.
 6) We have our own and running marketplace apps, so we know the way the cookie crumbles.
+7) Our Upwork profile with almost perfect 5-star reviews for the past several years from clients mostly from the US and Europe: https://www.upwork.com/agencies/~019c0c38c401264e32 Alternatively, Clutch profile with more reviews: https://clutch.co/profile/cookiedev
 
-7.1) Our Upwork profile with almost perfect 5-star reviews for the past several years from clients mostly from the US and Europe: https://www.upwork.com/agencies/~019c0c38c401264e32
-7.2) Alternatively, Clutch profile with more reviews: https://clutch.co/profile/cookiedev
-
-Contact for more details: stepan@cookiedev.com
+Contact for more details: contact@cookiedev.com
