@@ -7,7 +7,7 @@ Please find below the link to some of the projects we've done (yet the most exci
 
 Our main expertise areas include:
 - Marketplace apps: https://cookiedev.com/our_expertise/marketplaces_projects/
-- Video-based streaming, e-Learning projects: https://cookiedev.com/our_expertise/entertainments_projects/
+- Video-based projects: https://cookiedev.com/our_expertise/entertainments_projects/
 - Map-based projects: https://cookiedev.com/our_expertise/map_based_projects/
 - AI-based projects: https://cookiedev.com/our_expertise/ai/ 
 - E-learning projects: https://cookiedev.com/our_expertise/e-learning/
